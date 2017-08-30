@@ -1,4 +1,4 @@
-![alt macOS Sierra cursors for Windows (only 200%)](https://www.dropbox.com/s/1hg0g9nz300c9m3/cursors.jpg?dl=1)
+![macOS Sierra cursors for Windows (only 200%)](https://github.com/jon/coolproject/raw/master/image/image.png)
 
 # macOS Sierra cursors for Windows (only 200%)
 
