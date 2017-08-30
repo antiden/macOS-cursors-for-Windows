@@ -7,7 +7,7 @@ Custom cursor macOS Sierra pack for Windows in 4K
 ## How to use it:
 
 1. Right click Install.inf and click «Install» 
-2. Go to Control Panel → Mouse and choose «El Capitan» scheme. 
+2. Go to Control Panel → Mouse and choose «macOS Sierra 200» scheme. 
 3. Apply and enjoy the best cursors ever!
 
 ## Authors
