@@ -2,7 +2,7 @@
 
 # macOS Sierra cursors for Windows (only 200%)
 
-Custom cursor macOS Sierra pack for Windows in 4K
+Custom cursor macOS Sierra pack for Windows in 4K and scale 200%
 
 ## How to use it:
 
