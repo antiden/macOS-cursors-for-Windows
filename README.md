@@ -13,7 +13,7 @@ Custom cursor macOS Sierra pack for Windows in 4K and scale 200%
 ## Authors
 
 * **antiden** - [CODERTEAM_](https://coderteam.ru)
-* **daviddarnes** - [daviddarnes](https://github.com/daviddarnes/mac-cursors)
+* Vector icons **daviddarnes** - [daviddarnes](https://github.com/daviddarnes/mac-cursors)
 
 ## License
 
