@@ -1,6 +1,6 @@
 ![macOS Sierra cursors for Windows and 200% scale](https://github.com/antiden/macOS-Sierra-cursors-for-Windows/blob/master/screenshot.jpg)
 
-# macOS Sierra cursors for Windows and 200% scale
+# Custom cursor macOS pack for Windows in 4K and scale 200%
 
 Custom cursor macOS Sierra pack for Windows screens for 4K with scale 200%
 
