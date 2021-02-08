@@ -1,6 +1,6 @@
 ![macOS cursors for Windows](https://github.com/antiden/macOS-Sierra-cursors-for-Windows/blob/master/screenshot.jpg)
 
-# Custom cursor macOS pack for Windows.
+# macOS cursor pack for Windows.
 
 Custom cursor macOS Sierra pack for Windows
 
