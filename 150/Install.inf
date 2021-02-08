@@ -1,4 +1,4 @@
-; macOS Sierra hight DPI 200% cursors ported by antiden
+; macOS Sierra hight DPI 150% and 200% cursors ported by antiden
 ; https://vk.com/antiden
 
 [Version]
@@ -35,8 +35,8 @@ Alternate.cur
 [Scheme.Txt]
 
 [Strings]
-CUR_DIR       = "Cursors\macossierraretina200"
-SCHEME_NAME   = "macOS Sierra 200"
+CUR_DIR       = "Cursors\macos150"
+SCHEME_NAME   = "macOS 150"
 pointer       = "Normal.cur"
 help          = "Help.cur"
 work          = "Working.ani"
