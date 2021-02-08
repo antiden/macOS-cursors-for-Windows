@@ -35,8 +35,8 @@ Alternate.cur
 [Scheme.Txt]
 
 [Strings]
-CUR_DIR       = "Cursors\macos200"
-SCHEME_NAME   = "macOS 200"
+CUR_DIR       = "Cursors\macos150"
+SCHEME_NAME   = "macOS 150"
 pointer       = "Normal.cur"
 help          = "Help.cur"
 work          = "Working.ani"
