@@ -8,7 +8,7 @@ Re-created for different sizes
 
 1. Select your resolution filder
 2. Right click Install.inf and click «Install» 
-3. Go to Control Panel → Mouse and choose «macOS Sierra 200» scheme. 
+3. Go to Control Panel → Mouse and choose «macOS Cursors» scheme. 
 4. Apply and enjoy the best cursors ever!
 
 ## Authors
