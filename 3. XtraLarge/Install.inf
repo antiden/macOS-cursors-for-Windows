@@ -35,8 +35,8 @@ Alternate.cur
 [Scheme.Txt]
 
 [Strings]
-CUR_DIR       = "Cursors\macosCursors"
-SCHEME_NAME   = "macOS Cursors"
+CUR_DIR       = "Cursors\macosCursorsXL"
+SCHEME_NAME   = "macOS Cursors XL"
 pointer       = "Normal.cur"
 help          = "Help.cur"
 work          = "Working.ani"
