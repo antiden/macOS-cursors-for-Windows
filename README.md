@@ -2,13 +2,16 @@
 
 # macOS cursor pack for Windows
 
-Re-created for different sizes
+Re-created for different sizes:
+- Standart
+- Large
+- XtraLarge
 
 ## How to use it:
 
-1. Select your resolution filder
+1. select a folder with the desired size
 2. Right click Install.inf and click «Install» 
-3. Go to Control Panel → Mouse and choose «macOS Cursors» scheme. 
+3. Go to Control Panel → Mouse and choose «macOS Cursors» («macOS Cursors L», «macOS Cursors XL») scheme. 
 4. Apply and enjoy the best cursors ever!
 
 ## Authors

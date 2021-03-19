@@ -1,0 +1,54 @@
+; macOS hight DPI cursors made by antiden
+; https://vk.com/antiden
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+[Scheme.Cur]
+Normal.cur
+Help.cur
+Working.ani
+Busy.ani
+Text.cur
+Unavailable.cur
+Vertical Resize.cur
+Horizontal Resize.cur
+Diagonal Resize 1.cur
+Diagonal Resize 2.cur
+Move.cur
+Link.cur
+Precision.cur
+Handwriting.cur
+Alternate.cur
+
+[Scheme.Txt]
+
+[Strings]
+CUR_DIR       = "Cursors\macosCursorsL"
+SCHEME_NAME   = "macOS Cursors L"
+pointer       = "Normal.cur"
+help          = "Help.cur"
+work          = "Working.ani"
+busy          = "Busy.ani"
+text          = "Text.cur"
+unavailiable  = "Unavailable.cur"
+vert          = "Vertical Resize.cur"
+horz          = "Horizontal Resize.cur"
+dgn1          = "Diagonal Resize 1.cur"
+dgn2          = "Diagonal Resize 2.cur"
+move          = "Move.cur"
+link          = "Link.cur"
+cross         = "Precision.cur"
+hand          = "Handwriting.cur"
+alternate     = "Alternate.cur"
