@@ -3,7 +3,7 @@
 # macOS cursor pack for Windows
 
 Re-created for different sizes:
-- Default
+- Normal
 - Large
 - XtraLarge
 
