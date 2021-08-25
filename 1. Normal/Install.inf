@@ -13,7 +13,7 @@ AddReg    = Scheme.Reg,Wreg
 Scheme.Cur = 10,"%CUR_DIR%"
 
 [Scheme.Reg]
-HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%,%10%\%CUR_DIR%\%grab%,%10%\%CUR_DIR%\%grabbing%,%10%\%CUR_DIR%\%zoom-in%,%10%\%CUR_DIR%\%zoom-out%"
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%,%10%\%CUR_DIR%\%pan%,%10%\%CUR_DIR%\%grab%,%10%\%CUR_DIR%\%grabbing%,%10%\%CUR_DIR%\%zoom-in%,%10%\%CUR_DIR%\%zoom-out%"
 
 [Wreg]
 HKCU,"Control Panel\Cursors",,0x00020000,"%SCHEME_NAME%"
@@ -35,6 +35,7 @@ HKCU,"Control Panel\Cursors",UpArrow,0x00020000,"%10%\%CUR_DIR%\%alternate%"
 HKCU,"Control Panel\Cursors",Wait,0x00020000,"%10%\%CUR_DIR%\%busy%"
 HKCU,"Control Panel\Cursors",Pin,0x00020000,"%10%\%CUR_DIR%\%pin%"
 HKCU,"Control Panel\Cursors",Person,0x00020000,"%10%\%CUR_DIR%\%person%"
+HKCU,"Control Panel\Cursors",Pan,0x00020000,"%10%\%CUR_DIR%\%pan%"
 HKCU,"Control Panel\Cursors",Grab,0x00020000,"%10%\%CUR_DIR%\%grab%"
 HKCU,"Control Panel\Cursors",Grabbing,0x00020000,"%10%\%CUR_DIR%\%grabbing%"
 HKCU,"Control Panel\Cursors",Zoom-in,0x00020000,"%10%\%CUR_DIR%\%zoom-in%"
@@ -53,6 +54,7 @@ Horizontal Resize.cur
 Diagonal Resize 1.cur
 Diagonal Resize 2.cur
 Move.cur
+Pan.cur
 Link.cur
 Precision.cur
 Handwriting.cur
@@ -85,6 +87,7 @@ hand          = "Handwriting.cur"
 alternate     = "Alternate.cur"
 pin           = "Pin.cur"
 person        = "Person.cur"
+pan           = "Pan.cur"
 grab          = "Move.cur"
 grabbing      = "Closehand.cur"
 zoom-in       = "Zoom-in.cur"
