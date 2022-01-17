@@ -1,4 +1,4 @@
-![macOS Cursors pack for Windows](https://github.com/antiden/macOS-Sierra-cursors-for-Windows/blob/master/screenshot.jpg)
+![macOS Cursors pack for Windows](https://github.com/antiden/macOS-cursors-for-Windows/blob/main/screenshot.jpg)
 
 # macOS Cursors pack for Windows
 
