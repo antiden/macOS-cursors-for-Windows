@@ -2,11 +2,11 @@
 
 # macOS Cursors pack for Windows
 
-2 different types:
+**2 different types:**
 - No shadow
 - With shadow
 
-3 different sizes:
+**3 different sizes:**
 - Normal
 - Large
 - XtraLarge
