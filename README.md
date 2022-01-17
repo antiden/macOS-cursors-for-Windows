@@ -1,20 +1,27 @@
 ![macOS cursors for Windows](https://github.com/antiden/macOS-Sierra-cursors-for-Windows/blob/master/screenshot.jpg)
 
-# macOS cursor pack for Windows
+# macOS Cursors pack for Windows
 
-Re-created for different sizes:
+2 different types:
+- No shadow
+- With shadow
+
+3 different sizes:
 - Normal
 - Large
 - XtraLarge
 
 ## How to use it:
 
-1. Select a folder with the desired size
-2. Right click Install.inf and click «Install» 
-3. Go to Start menu → 
-   1. For Win 10 and newer: Type `mouse` → Choose "Change the mouse pointer display or speed" → Select Tab "Pointers" → Select the theme you want (macOS Cursors, macOS Cursors L, macOS Cursors XL)
-   2. For Win 8 and later: Type `mouse` in Search field → Choose "Mouse" → Select Tab "Pointers" → Select the theme you want (macOS Cursors, macOS Cursors L, macOS Cursors XL)
+1. Select a folder with the desired type and size
+2. Right click Install.inf and click «Install»
+3. Cursors install automatically (You must agree to the installation) and will open menu Mouse Properties. You need press "OK" button.
 4. Apply and enjoy the best cursors ever!
+
+# Please Support me
+
+1. [PayPal](https://paypal.me/antiden?country.x=RU&locale.x=en_US)
+2. [YooMoney](https://yoomoney.ru/to/41001275586164)
 
 ## Authors
 
