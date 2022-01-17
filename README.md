@@ -21,7 +21,8 @@
 # Please Support me
 
 1. [PayPal](https://paypal.me/antiden?country.x=RU&locale.x=en_US)
-2. [YooMoney](https://yoomoney.ru/to/41001275586164)
+2. [BuyMeACoffee](https://www.buymeacoffee.com/antiden)
+3. [YooMoney](https://yoomoney.ru/to/41001275586164)
 
 ## Authors
 
