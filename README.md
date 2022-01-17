@@ -1,12 +1,12 @@
-![macOS Cursors pack for Windows](https://github.com/antiden/macOS-Sierra-cursors-for-Windows/blob/master/screenshot.jpg)
+![macOS Cursors pack for Windows](https://github.com/antiden/macOS-cursors-for-Windows/blob/main/screenshot.jpg)
 
 # macOS Cursors pack for Windows
 
-2 different types:
+**2 different types:**
 - No shadow
 - With shadow
 
-3 different sizes:
+**3 different sizes:**
 - Normal
 - Large
 - XtraLarge
