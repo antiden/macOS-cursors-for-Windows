@@ -18,7 +18,7 @@
 3. Cursors install automatically (You must agree to the installation) and will open menu Mouse Properties. You need press "OK" button.
 4. Apply and enjoy the best cursors ever!
 
-# Please Support me
+## Please Support me
 
 1. [PayPal](https://paypal.me/antiden?country.x=RU&locale.x=en_US)
 2. [BuyMeACoffee](https://www.buymeacoffee.com/antiden)
