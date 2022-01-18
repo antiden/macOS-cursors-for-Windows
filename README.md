@@ -26,7 +26,7 @@
 
 ## Authors
 
-* **antiden** - [CODERTEAM_](https://coderteam.ru)
+* **antiden** - [coderteam](https://coderteam.ru)
 * Vector icons **antiden**
 
 ## License
