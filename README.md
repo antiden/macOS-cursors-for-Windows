@@ -1,6 +1,10 @@
-![macOS Cursors pack for Windows](https://github.com/antiden/macOS-cursors-for-Windows/blob/main/screenshot.jpg)
+![macOS Cursors Megapack for Windows](https://github.com/antiden/macOS-cursors-for-Windows/blob/main/screenshot.jpg)
 
-# macOS Cursors pack for Windows
+# macOS Cursors Megapack for Windows
+
+**2 different versions:**
+- Sierra and newer (Working cursor with blue colors for waiting round)
+- El Capitan and before (Working cursor with rainbow colors for waiting round)
 
 **2 different types:**
 - No shadow
