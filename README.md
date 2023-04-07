@@ -1,6 +1,7 @@
 ![macOS Cursors Megapack for Windows](https://github.com/antiden/macOS-cursors-for-Windows/blob/main/screenshot.jpg)
 
 # macOS Cursors Megapack for Windows
+This is cursors only for 4K (3840 x 2160 pixel) resolution.
 
 **2 different versions:**
 - Sierra and newer (Working cursor with blue colors for waiting round)
